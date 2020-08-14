@@ -1,12 +1,19 @@
 ### Hi there 👋
 
+My name is Tanapol Prucksakorn, a Ph.D. in robotics and currently a software engineer.
+
+🌱 I’m currently learning Rust 🦀. Python 🐍 is my current best language. (Transitioning to Rust)
+
+I have my webpage [tanapol.dev](https://www.tanapol.dev).
+If you have any comments or suggestion feels free to leave it as an issue at the [repo](https://github.com/zynaxsoft/tanapol.dev)!
+
 <!--
 **zynaxsoft/zynaxsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
